@@ -15,13 +15,13 @@
     "b04b779c-1cfb-48a7-8424-25a8c7e608ae": {
       "name": "toaster oven",
       "price": 20.49,
-      "description": "Tasty bread not included.",
+      "description": "Tasty bread not included.Tasty bread not included.",
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/81110bb7g2L._SL1500_.jpg"
     },
     "4260bf52-218a-480e-87ea-4ff42470ce98": {
       "name": "chair",
       "price": 100.89,
-      "description": "It's a chair. You can sit in it.",
+      "description": "It's a chair. You can sit in it.It's a chair. You can sit in it.It's a chair. You can sit in it",
       "image_url": "https://www.ikea.com/PIAimages/0355482_PE547815_S5.JPG"
     },
     "6a56c22f-2a85-4751-98a9-14e280fcecd8": {
