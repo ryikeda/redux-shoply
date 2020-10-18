@@ -2,21 +2,16 @@ import React from "react";
 import { Grid } from "@material-ui/core";
 
 import ProductCard from "./ProductCard";
-import { products } from "../data.json";
 
-const Showcase = () => {
+const Showcase = ({ products }) => {
   return (
     <>
-      <Grid
-        item
-        container
-        spacing={1}
-        justify="space-between"
-        alignItems="stretch"
-      >
-        {Object.entries(products).map(([key, value]) => (
-          <ProductCard key={key} item={value} />
-        ))}
+      <Grid item xs={12} sm={8}>
+        <Grid item container spacing={1} justify="center" alignItems="stretch">
+          {Object.entries(products).map(([key, value]) => (
+            <ProductCard key={key} item={value} />
+          ))}
+        </Grid>
       </Grid>
     </>
   );

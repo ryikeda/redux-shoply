@@ -47,7 +47,7 @@ const ProductCard = ({ item: { image_url, name, price, description } }) => {
             Remove
           </Button>
           <Button fullWidth variant="contained">
-            Add to Cart
+            Add
           </Button>
         </CardActions>
       </Card>
