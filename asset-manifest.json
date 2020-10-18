@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/redux-shoply/static/css/main.f4b11eee.chunk.css",
+    "main.js": "/redux-shoply/static/js/main.aa499ff5.chunk.js",
+    "main.js.map": "/redux-shoply/static/js/main.aa499ff5.chunk.js.map",
+    "runtime-main.js": "/redux-shoply/static/js/runtime-main.892d178a.js",
+    "runtime-main.js.map": "/redux-shoply/static/js/runtime-main.892d178a.js.map",
+    "static/js/2.62f3c6fa.chunk.js": "/redux-shoply/static/js/2.62f3c6fa.chunk.js",
+    "static/js/2.62f3c6fa.chunk.js.map": "/redux-shoply/static/js/2.62f3c6fa.chunk.js.map",
+    "index.html": "/redux-shoply/index.html",
+    "precache-manifest.945498289a43cdc241235ec1f46cd79b.js": "/redux-shoply/precache-manifest.945498289a43cdc241235ec1f46cd79b.js",
+    "service-worker.js": "/redux-shoply/service-worker.js",
+    "static/css/main.f4b11eee.chunk.css.map": "/redux-shoply/static/css/main.f4b11eee.chunk.css.map",
+    "static/js/2.62f3c6fa.chunk.js.LICENSE.txt": "/redux-shoply/static/js/2.62f3c6fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.892d178a.js",
+    "static/js/2.62f3c6fa.chunk.js",
+    "static/css/main.f4b11eee.chunk.css",
+    "static/js/main.aa499ff5.chunk.js"
+  ]
+}
