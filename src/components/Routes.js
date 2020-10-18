@@ -16,6 +16,7 @@ const Routes = () => {
       <Route path="/cart" exact>
         <Cart />
       </Route>
+      <Redirect to="/" />
     </Switch>
   );
 };
