@@ -7,7 +7,13 @@ import { products } from "../data.json";
 const Showcase = () => {
   return (
     <>
-      <Grid container spacing={1} justify="space-between" alignItems="stretch">
+      <Grid
+        item
+        container
+        spacing={1}
+        justify="space-between"
+        alignItems="stretch"
+      >
         {Object.entries(products).map(([key, value]) => (
           <ProductCard key={key} item={value} />
         ))}

@@ -44,6 +44,9 @@ const ProductCard = ({ item: { image_url, name, price, description } }) => {
         </CardActionArea>
         <CardActions>
           <Button fullWidth variant="contained">
+            Remove
+          </Button>
+          <Button fullWidth variant="contained">
             Add to Cart
           </Button>
         </CardActions>
